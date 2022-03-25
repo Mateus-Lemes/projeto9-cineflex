@@ -1,0 +1,15 @@
+header {
+    background-color: #C3CFD9;;
+} 
+
+header h1 {
+    width: 375px;
+    height: 67px;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #E8833A;
+}

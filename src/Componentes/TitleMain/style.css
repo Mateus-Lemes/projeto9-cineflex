@@ -1,0 +1,13 @@
+.title-main {
+    width: 374px;
+    height: 110px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 0.04em;
+    color: #293845;
+}
