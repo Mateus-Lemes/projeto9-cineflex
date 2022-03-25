@@ -33,7 +33,7 @@ function MainHomePage() {
         <>
             <TitleMain title="Selecione o filme" />
             <main>
-                <section>
+                <section> 
                     {movies.map(movie => 
                         <figure id={movie.id}>
                             <img src={movie.posterURL} alt="" />
