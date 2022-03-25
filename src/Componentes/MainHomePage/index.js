@@ -41,7 +41,7 @@ function MainHomePage() {
                     }
                 </section>
             </main>
-        </>    
+        </>
 	);
 }
 
